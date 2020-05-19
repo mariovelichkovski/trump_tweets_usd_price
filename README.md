@@ -1,1 +1,1 @@
-# trump_tweets_usd_price
+# Analysis and prediction of effect of Trump tweets on USD price
